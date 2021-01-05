@@ -1,3 +1,3 @@
 hoge
-# DMM WEBCAMPコンテンツ【HTML/CSSを学ぼう】
-DMM WEBCAMPの学習コンテンツHTML/CSSを学ぼうの研修課題です。
+＃DMM WEBCAMP2021
+DMMWEBCAMPの学習コンテンツHTML / CSSを学ぼうのデモコンテンツ。
