@@ -1,4 +1,3 @@
-
 /* ブラウザがそれぞれ持っているCSSをリセットするための記述 */
 * {
   margin: 0;
@@ -240,4 +239,3 @@ footer {
 .footer-text {
   color: #fff;
 }
-
