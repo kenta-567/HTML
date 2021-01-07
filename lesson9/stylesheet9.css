@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  width: 100%;
+  height: 50px;
+  background-color: #ff9a4b;
+}
+
+.lessons {
+  width: 960px;
+  margin: 50px auto;
+  display: flex;
+  justify-content: center;
+}
+
+.lesson {
+  width: 300px;
+  background-color: #eee;
+  position: relative;
+  padding: 10px;
+}
+
+.lesson:nth-child(2) {
+  margin: 0 30px;
+}
+
+span {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #ff9a4b;
+  color: #fff;
+  padding: 3px;
+}
+
+.box1 {
+  height: 150px;
+  background-image: url(img/flow01.png);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.box2 {
+  height: 150px;
+  background-image: url(img/flow02.png);
+  background-size: cover;
+  background-position: bottom;
+}
+.box3 {
+  height: 150px;
+  background-image: url(img/flow03.png);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.lesson-text h3 {
+  margin: 15px 0 5px;
+}
+
+footer {
+  width: 100%;
+  height: 50px;
+  background-color: #aaa;
+}
